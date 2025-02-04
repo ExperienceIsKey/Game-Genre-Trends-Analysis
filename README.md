@@ -17,37 +17,38 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 📊 Dataset
 
-Source: Steam API, Kaggle
-
-Games Analyzed: 30,000+
-
-Attributes: Revenue, review scores, ownership data, genres, tags, release dates
-
-Processing: Data cleaning, standardization, genre classification
+* Source: Steam API, Kaggle
+* Games Analyzed: 30,000+
+* Attributes: Revenue, review scores, ownership data, genres, tags, release dates
+* Processing: Data cleaning, standardization, genre classification
 
 
 🔍 Methodology
 
-Data Cleaning & Transformation: Handled missing values, standardized titles, converted data types.
-Ownership Estimation: Applied the Boxleiter method for estimating game ownership.
-Trend Analysis: Visualized genre trends over time.
-Genre Similarity Search: Implemented TF-IDF + Cosine Similarity to recommend similar games.
+* Data Cleaning & Transformation: Handled missing values, standardized titles, converted data types.
+* Ownership Estimation: Applied the Boxleiter method for estimating game ownership.
+* Trend Analysis: Visualized genre trends over time.
+* Genre Similarity Search: Implemented TF-IDF + Cosine Similarity to recommend similar games.
 
 
 📈 Key Insights
 
 ✔ RPG & Multiplayer games remain dominant in ownership and revenue.
+
 ✔ Paid games have higher review scores than Free-to-Play.
+
 ✔ Strategy & Sports games show steady, high ratings over time.
+
 ✔ Battle Royale & Multiplayer genres are growing rapidly.
+
 ✔ Revenue is highly influenced by top-performing titles.
 
 
 🚀 Technologies Used
 
-Python, PySpark, AWS, Spark-SQL, Docker
-Jupyter Notebook, Pandas, Matplotlib, Seaborn
-TF-IDF, Cosine Similarity for content-based recommendations
+*Python, PySpark, AWS, Spark-SQL, Docker
+*Jupyter Notebook, Pandas, Matplotlib, Seaborn
+*TF-IDF, Cosine Similarity for content-based recommendations
 
 
 🛠 Future Enhancements
