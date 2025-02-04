@@ -52,7 +52,8 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 
 🛠 Future Enhancements
-🔹 Cross-platform analysis (PC, console, mobile).
-🔹 Impact of emerging technologies (AR/VR, cloud gaming).
-🔹 Sentiment analysis of user reviews.
-🔹 Influencer impact tracking on game success.
+
+* Cross-platform analysis (PC, console, mobile).
+* Impact of emerging technologies (AR/VR, cloud gaming).
+* Sentiment analysis of user reviews.
+* Influencer impact tracking on game success.
