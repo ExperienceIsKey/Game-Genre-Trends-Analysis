@@ -32,6 +32,7 @@ Genre Similarity Search: Implemented TF-IDF + Cosine Similarity to recommend sim
 
 
 📈 Key Insights
+
 ✔ RPG & Multiplayer games remain dominant in ownership and revenue.
 ✔ Paid games have higher review scores than Free-to-Play.
 ✔ Strategy & Sports games show steady, high ratings over time.
