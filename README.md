@@ -9,17 +9,20 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 🎯 Objectives
 
-Identify popular and emerging game genres.
-Analyze review scores, revenue, and ownership trends.
-Utilize TF-IDF and Cosine Similarity for content-based recommendations.
-Offer data-driven insights for the gaming industry.
+* Identify popular and emerging game genres.
+* Analyze review scores, revenue, and ownership trends.
+* Utilize TF-IDF and Cosine Similarity for content-based recommendations.
+* Offer data-driven insights for the gaming industry.
 
 
 📊 Dataset
 
 Source: Steam API, Kaggle
+
 Games Analyzed: 30,000+
+
 Attributes: Revenue, review scores, ownership data, genres, tags, release dates
+
 Processing: Data cleaning, standardization, genre classification
 
 
