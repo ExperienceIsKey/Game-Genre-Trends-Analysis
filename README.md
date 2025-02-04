@@ -1,6 +1,4 @@
-# Game-Genre-Trend-Analysis
-
-🎮 Game Genre Trend Analysis
+# 🎮 Video Game Genre Trend Analysis
 
 📌 Overview
 
