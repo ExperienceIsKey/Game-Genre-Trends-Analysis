@@ -46,9 +46,9 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 🚀 Technologies Used
 
-*Python, PySpark, AWS, Spark-SQL, Docker
-*Jupyter Notebook, Pandas, Matplotlib, Seaborn
-*TF-IDF, Cosine Similarity for content-based recommendations
+* Python, PySpark, AWS, Spark-SQL, Docker
+* Jupyter Notebook, Pandas, Matplotlib, Seaborn
+* TF-IDF, Cosine Similarity for content-based recommendations
 
 
 🛠 Future Enhancements
