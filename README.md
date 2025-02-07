@@ -20,6 +20,35 @@ This project explores trends in video game genres using data from 30,000+ video 
 * Attributes: Revenue, review scores, ownership data, genres, tags, release dates
 * Processing: Data cleaning, standardization, genre classification
 
+📌 Dataset Overview
+
+* Total Number of Distinct Games: 🕹️ 38,471
+* Genre Distribution:
+* Battle Royale: 1,030 games
+* Multiplayer: 318 games
+* Role-Playing Games (RPG): 15,758 games
+* Racing: 1,754 games
+* Strategy: 10,281 games
+* Sports: 1,606 games
+* Free to Play: 605 games
+* Paid: 38,399 games
+
+📌 Dataset Columns & Description
+
+1️⃣ Game Identification
+* App ID 🏷️ – Unique identifier assigned to each game in the Steam database
+* Title 🎮 – Name of the game
+
+2️⃣ Reviews & Ratings
+* Reviews Total 📝 – Total number of reviews submitted by users
+* Reviews Score Fancy ⭐ – Steam's formatted rating based on user reviews
+* Reviews D7 📆 – Number of reviews received in the last 7 days
+* Reviews D30 📆 – Number of reviews received in the last 30 days
+* Reviews D90 📆 – Number of reviews received in the last 90 days
+
+3️⃣ Game Release & Pricing
+* Release Date 🗓️ – Date when the game was launched on Steam
+* Launch Price 💰 – Initial price of the game at release
 
 🔍 Methodology
 
