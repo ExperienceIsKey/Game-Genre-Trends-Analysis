@@ -22,14 +22,19 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 📌 Dataset Overview
 
-* Total Number of Distinct Games: 🕹️ 38,471
-* Genre Distribution:
+Total Number of Distinct Games: 🕹️ 38,471
+
+1️⃣ Genre Distribution (Genres):
+
 * Battle Royale: 1,030 games
 * Multiplayer: 318 games
 * Role-Playing Games (RPG): 15,758 games
 * Racing: 1,754 games
 * Strategy: 10,281 games
 * Sports: 1,606 games
+
+2️⃣ Game Distribution (Pricing Model):
+
 * Free to Play: 605 games
 * Paid: 38,399 games
 
