@@ -22,9 +22,8 @@ This project explores trends in video game genres using data from 30,000+ video 
 
 📌 Dataset Overview
 
-Total Number of Games: 🕹️ 65,112
-
-Total Number of Distinct Games: 🕹️ 38,471
+* Total Number of Games: 🕹️ 65,112
+* Total Number of Distinct Games: 🕹️ 38,471
 
 1️⃣ Genre Distribution (Genre):
 
